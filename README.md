@@ -6,4 +6,4 @@ Pratice:
 
 - Adding first comments to the fork repository.
 
-- Adding a new comment from the origin. 
+- Adding a new comment from the origin (2). 
